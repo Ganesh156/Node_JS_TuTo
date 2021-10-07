@@ -1,0 +1,24 @@
+{
+  "name": "Node_TuTo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ganseh/Node_JS_TuTo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ganseh/Node_JS_TuTo/issues"
+  },
+  "homepage": "https://github.com/Ganseh/Node_JS_TuTo#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.2",
+    "lodash": "^4.17.21"
+  }
+}
